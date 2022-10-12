@@ -6,3 +6,5 @@ Depend on different age input or feeling input, it will print 3 different types 
 
 emily- -DoSomething.ipynb
 This is Emily Durning! My notebook asks for the user's name and then asks them what year they were born. Then it tells the user how old they are.
+
+
