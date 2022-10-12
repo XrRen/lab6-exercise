@@ -1,0 +1,1 @@
+We choose the COMMON DEVELOPMENT AND DISTRIBUTION LICENSE because we don't want to make a profit out from our code and we are welcome for others to change/imporve our code while using. Everyone can use our code and develop our code. They can install it on any computer as they want. They can give it to anyone thay want. And they can change the sofetware nd give it to others.

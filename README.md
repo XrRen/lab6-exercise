@@ -1,7 +1,6 @@
 # lab6-exercise
 
-## What the software does
-The first part of the DoSomething notebook was written by Xirui Ren. It will ask for the user's name, age, and how they feel today. Depending on the different age entered and the feeling entered, it will print out one of three possible responses. The second part of this notbook was written by Emily Durning. It asks for the user's name and asks what year they were born and what month. It will then tell the user how old they are.
+
 
 ## How to use it
 ### Installation Documentation
@@ -23,3 +22,4 @@ If you would like to contribute, fork the repository and once you have finished 
 
 ## Code of Conduct
 We chose to use the Contributor Covenant code of conduct for our project because our values and beliefs aligned with those within that code of conduct.
+
